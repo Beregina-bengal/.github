@@ -1,8 +1,12 @@
-## Welcome to Motorola-SM6375-Devs organization 
+## Welcome to Legacy Team - SM6375 - Motorola Devices
+
+```
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+```
 
 This organization contains device specific & common sources for various SM6375 based Motorola devices.
 
-Founded and maintained by [@AnandSuresh02](https://github.com/AnandSuresh02), feel free to contribute.
+Founded and maintained by [@victor_legendary_02](https://github.com/AnandSuresh02)
 
 If you like my work, feel free to donate:
 
